@@ -186,19 +186,4 @@ Dentro de la interfaz podrás:
 
 ---
 
-# Objetivo Académico
-
-Este proyecto fue desarrollado con fines académicos para:
-
-* Analizar el comportamiento de **algoritmos de caminos mínimos**.
-* Aplicar conceptos de **estructuras de datos y grafos**.
-* Practicar **programación orientada a objetos en Java**.
-* Desarrollar **interfaces gráficas con Java Swing**.
-
----
-
-# Autor
-
-Proyecto desarrollado como parte de un trabajo académico relacionado con el análisis y comparación de algoritmos en grafos.
-
 ---
